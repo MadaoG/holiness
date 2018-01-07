@@ -14,5 +14,7 @@ setup(
     description='Produces nice headlines',
     long_description=long_description,
     install_requires=[
-    ]
+    ],
+    test_suite='nose.collector',
+    tests_require=['nose'],
 )
