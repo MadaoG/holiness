@@ -5,7 +5,7 @@ with open('README.rst', 'r') as f:
 
 setup(
     name='holiness',
-    version='0.1',
+    version='0.2',
     author='Daniel Ceglinski',
     author_email='danielceglinski@web.de',
     packages=find_packages(exclude=['docs']),
