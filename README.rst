@@ -23,9 +23,7 @@ $
 Description
 -----------
 
-$
-Produces nice holinesss$
-
+Produces nice holinesss
 
 Installation
 ------------
@@ -33,22 +31,7 @@ Installation
 This package is registered on the `Python Package Index (PyPI)`_
 as holiness_.
 
-Add this line to your application's requirements.txt
-
-::
-
-    holiness
-
-and install it with
-
-::
-
-    $ pip install -r requirements.txt
-
-If you are writing a Python package which will depend on this,
-add this to your requirements in ``setup.py``.
-
-Alternatively, install it directly using pip with
+Install it using pip with
 
 ::
 
@@ -77,30 +60,16 @@ Requirements
 
 You will need `Python 3`_ with pip_.
 
-Install the development dependencies with
-
-::
-
-    $ pip install -r requirements.devel.txt
-
-.. _pip: https://pip.pypa.io/
-.. _Python 3: https://www.python.org/
-
 Tests
 ~~~~~
-
-Lint code with
-
-::
-
-    $ python setup.py lint
-
 
 Run tests with
 
 ::
 
     $ python setup.py test
+
+You need `nose` for this. Install it with pip.
 
 Contributing
 ------------
