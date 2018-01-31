@@ -16,10 +16,18 @@ holiness
    :target: https://travis-ci.org/MadaoG/holiness
    :alt: Travis
 
-Description
+Quick Guide
 -----------
 
-Produces nice headlines
+.. code-block:: python
+    
+   from holiness import headline
+
+   headline("hello")
+
+
+
+
 
 Installation
 ------------
