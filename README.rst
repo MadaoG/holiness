@@ -52,7 +52,7 @@ Clone the project with
 Requirements
 ~~~~~~~~~~~~
 
-You will need `Python 3`_ with pip_.
+You will need `Python 3` with pip.
 
 Tests
 ~~~~~
