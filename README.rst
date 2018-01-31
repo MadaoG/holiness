@@ -21,13 +21,12 @@ Quick Guide
 
 .. code-block:: python
     
-   from holiness import headline
+   >>> from holiness import headline
 
-   headline("hello")
+   >>> headline("hello")
+   ================================ H I  =================================
 
-
-
-
+You can customize this in many ways. Here are some examples:
 
 Installation
 ------------
