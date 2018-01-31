@@ -1,12 +1,12 @@
-"""
-Produce nice headlines
+"""Produce nice headlines
 
-    * head
+This package provides the `headline` command, which will create a nice
+headline for you. In its simplest form, it looks like this:
 
-head will create a headline for you, basically in the form
+====================  H E A D L I N E  =====================
 
-==============================  H E A D L I N E  ===============================
-
+However, this command is highly customizable. Use `help(headline)` for
+further instructions.
 """
 
 def headline(
