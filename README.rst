@@ -1,4 +1,4 @@
-headline
+holiness
 =======================
 
 |PyPI| |GitHub-license| |Requires.io| |Travis|
@@ -7,37 +7,37 @@ $
     Built from `makenew/python-package <https://github.com/makenew/python-package>`__.
 $
 
-.. |PyPI| image:: https://img.shields.io/pypi/v/headline.svg
-   :target: https://pypi.python.org/pypi/headline
+.. |PyPI| image:: https://img.shields.io/pypi/v/holiness.svg
+   :target: https://pypi.python.org/pypi/holiness
    :alt: PyPI
-.. |GitHub-license| image:: https://img.shields.io/github/license/MadaoG/headline.svg
+.. |GitHub-license| image:: https://img.shields.io/github/license/MadaoG/holiness.svg
    :target: ./LICENSE.txt
    :alt: GitHub license
-.. |Requires.io| image:: https://img.shields.io/requires/github/MadaoG/headline.svg
-   :target: https://requires.io/github/MadaoG/headline/requirements/
+.. |Requires.io| image:: https://img.shields.io/requires/github/MadaoG/holiness.svg
+   :target: https://requires.io/github/MadaoG/holiness/requirements/
    :alt: Requires.io
-.. |Travis| image:: https://img.shields.io/travis/MadaoG/headline.svg
-   :target: https://travis-ci.org/MadaoG/headline
+.. |Travis| image:: https://img.shields.io/travis/MadaoG/holiness.svg
+   :target: https://travis-ci.org/MadaoG/holiness
    :alt: Travis
 
 Description
 -----------
 
 $
-Produces nice headlines$
+Produces nice holinesss$
 
 
 Installation
 ------------
 
 This package is registered on the `Python Package Index (PyPI)`_
-as headline_.
+as holiness_.
 
 Add this line to your application's requirements.txt
 
 ::
 
-    headline
+    holiness
 
 and install it with
 
@@ -52,9 +52,9 @@ Alternatively, install it directly using pip with
 
 ::
 
-    $ pip install headline
+    $ pip install holiness
 
-.. _headline: https://pypi.python.org/pypi/headline
+.. _holiness: https://pypi.python.org/pypi/holiness
 .. _Python Package Index (PyPI): https://pypi.python.org/
 
 Development and Testing
@@ -63,14 +63,14 @@ Development and Testing
 Source Code
 ~~~~~~~~~~~
 
-The `headline source`_ is hosted on GitHub.
+The `holiness source`_ is hosted on GitHub.
 Clone the project with
 
 ::
 
-    $ git clone https://github.com/MadaoG/headline.git
+    $ git clone https://github.com/MadaoG/holiness.git
 
-.. _headline source: https://github.com/MadaoG/headline
+.. _holiness source: https://github.com/MadaoG/holiness
 
 Requirements
 ~~~~~~~~~~~~
@@ -109,7 +109,7 @@ Please submit and comment on bug reports and feature requests.
 
 To submit a patch:
 
-1. Fork it (https://github.com/MadaoG/headline/fork).
+1. Fork it (https://github.com/MadaoG/holiness/fork).
 2. Create your feature branch (``git checkout -b my-new-feature``).
 3. Make changes. Write and run tests.
 4. Commit your changes (``git commit -am 'Add some feature'``).
