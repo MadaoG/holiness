@@ -3,8 +3,6 @@ holiness
 
 |PyPI| |GitHub-license| |Requires.io| |Travis|
 
-Built from `makenew/python-package <https://github.com/makenew/python-package>`__.
-
 .. |PyPI| image:: https://img.shields.io/pypi/v/holiness.svg
    :target: https://pypi.python.org/pypi/holiness
    :alt: PyPI
