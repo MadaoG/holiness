@@ -25,7 +25,7 @@ Installation
 ------------
 
 This package is registered on the `Python Package Index (PyPI)`
-as `holiness_`.
+as `holiness`_.
 
 Install it using pip with
 
